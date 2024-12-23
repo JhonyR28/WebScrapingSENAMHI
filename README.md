@@ -5,7 +5,7 @@ Características
 2. Automatiza la descarga de datos históricos en formato XLSX.
 3. Estructura los datos en un formato organizado y listo para su análisis.
 4. Facilita el manejo de grandes volúmenes de datos climáticos.
-Uso
+  Uso:
 1. Ejecuta el código para obtener una lista actualizada de estaciones.
 2. Selecciona las estaciones y datos que deseas descargar.
 3. Los archivos descargados en formato XLSX estarán listos para análisis posterior.
